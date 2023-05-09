@@ -2,8 +2,8 @@
 ![Seguidores](https://img.shields.io/github/followers/CesarOliiveira.svg?style=social&label=Follow&maxAge=2592000)
 
 <div  align="center" style="width: 100%; height: 150px; display: inline-block; ">
-         <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api?username=CesarOliiveira&theme=midnight-purple"/>
-         <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyCarso&layout=compact&langs_count=7&theme=radical&locale=pt-br"/>
+         <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api?username=CesarOliiveira&theme=midnight-purple" style="height: 190px"/>
+         <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarOliiveira&layout=compact&langs_count=7&theme=radical&locale=pt-br" style="height: 190px"/>
 </div>
 
 
