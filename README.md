@@ -29,6 +29,25 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/286632997845860364)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_cesaroli)
 
+##
+
+### **Linguagens que estou Aprendendo:**
+<div style="display: flex">
+    <img  height="25px" width="50px" alt="Cesar-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <h3>React</h3>
+    <img   height="25px" width="50px" alt="Cesar-typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <h3>TypeScript</h3>
+    <img height="40px" width="50px" alt="Cesar-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <h3>PHP</h3>
+</div>
+ 
+ ##
+ 
+<div align="center">
+    <h1>Visitantes</h1>
+    <img align="center" src="https://profile-counter.glitch.me/{CesarOliiveira}/count.svg"/>
+</div>
+
 <!--
 **CesarOliiveira/CesarOliiveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
