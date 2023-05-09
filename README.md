@@ -1,7 +1,7 @@
 ### Olá! Meu nome é César Oliveira 👋
 ![Seguidores](https://img.shields.io/github/followers/CesarOliiveira.svg?style=social&label=Follow&maxAge=2592000)
 
-<div style="width: 100%; height: 12em; display: inline-block;">
+<div style="width: 100%; height: 12em; display: flex; justify-content: center;">
          <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api?username=CesarOliiveira&theme=midnight-purple"/>
          <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyCarso&layout=compact&langs_count=7&theme=radical&locale=pt-br"/>
 </div>
