@@ -1,7 +1,7 @@
-### Olá! Meu nome é César Oliveira 👋
-![Seguidores](https://img.shields.io/github/followers/CesarOliiveira.svg?style=social&label=Follow&maxAge=2592000)
+## Oi Bem-vindo(a), Meu nome é César Oliveira. 👋
+##
 
-<hr style="height: 1px;"/>
+>### Estou em busca de novos desafios para evoluir no mundo da programação.
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -26,8 +26,8 @@
 ## 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cesaroliiveira/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cesaroliiveira/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/286632997845860364)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_cesaroli)
 
 <!--
 **CesarOliiveira/CesarOliiveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
