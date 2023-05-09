@@ -1,23 +1,33 @@
 ### Olá! Meu nome é César Oliveira 👋
 ![Seguidores](https://img.shields.io/github/followers/CesarOliiveira.svg?style=social&label=Follow&maxAge=2592000)
 
-<div  align="center" style="width: 100%; height: 150px; display: inline-block; ">
-         <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api?username=CesarOliiveira&theme=midnight-purple" style="height: 11em"/>
-         <img align="center" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarOliiveira&layout=compact&langs_count=7&theme=radical&locale=pt-br" style="height: 11em"/>
+<hr style="height: 1px;"/>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
+<div align="center">
+         <img height="180em" alt="html5" src="https://github-readme-stats.vercel.app/api?username=CesarOliiveira&theme=midnight-purple" />
+         <img height="180em" alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarOliiveira&layout=compact&langs_count=7&theme=radical&locale=pt-br"/>
 </div>
 
 
-### Contatos:
+
+
+<div align="center" ><br/>
+    <img height="30px" width="40px" alt="Cesar-html"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img  height="30px" width="40px" alt="Cesar-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img height="30px" width="40px" alt="Cesar-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img  height="30px" width="40px" alt="Cesar-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img   height="30px" width="40px" alt="Cesar-typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img   height="30px" width="40px" alt="Cesar-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</div>
+
+## 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cesaroliiveira/)
-
-<hr>
-<div style="width: 100%; display: flex; justify-content: center;"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-</div>
-
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cesaroliiveira/)
 
 <!--
 **CesarOliiveira/CesarOliiveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
