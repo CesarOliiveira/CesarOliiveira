@@ -1,10 +1,8 @@
 ## Oi Bem-vindo(a), Meu nome é César Oliveira. 👋
-##
 
 >### Estou em busca de novos desafios para evoluir no mundo da programação.
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
+##
 
 <div align="center">
          <img height="180em" alt="html5" src="https://github-readme-stats.vercel.app/api?username=CesarOliiveira&theme=midnight-purple" />
