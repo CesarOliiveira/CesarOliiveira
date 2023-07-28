@@ -16,13 +16,13 @@ d![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size
 ##
 
 <div>
-    <img width="74rem" height="74rem" align="center" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
+    <img align="right" width="424rem" height="324rem" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
 </div>
 
 
 ### Tools And Plataforms 
 
-<div >
+<div align="left">
     <img src="https://skillicons.dev/icons?i=docker,git,github,bash,linux,eclipse,vscode,gitlab,stackoverflow,postman,jetbrains">
 </div>
 
