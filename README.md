@@ -13,11 +13,8 @@
 
 ##
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cesaroliiveira/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/286632997845860364)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesaroliiveira8@gmail.com)
 
-##
+
 
 ### Tools And Plataforms 
 ![Tools](https://skillicons.dev/icons?i=docker,git,github,bash,linux,eclipse,vscode,gitlab,stackoverflow,postman,jetbrains)
@@ -28,8 +25,12 @@
 ### Front-End
 ![My Skills Front-End](https://skillicons.dev/icons?i=html,css,js,react,vercel,nodejs)
  
+##
 
- 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cesaroliiveira/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/286632997845860364)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesaroliiveira8@gmail.com)
+
 
 
 <!--
