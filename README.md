@@ -1,4 +1,5 @@
-d![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=24&duration=2700&pause=1000&color=1287D2&background=2F2F2F00&multiline=true&repeat=false&width=430&height=73&lines=Hi%2C+I'm+C%C3%A9sar+Oliveira!;I'm+a+Software+Developer.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=24&duration=2700&pause=1000&color=1287D2&background=2F2F2F00&multiline=true&repeat=false&width=430&height=73&lines=Hi%2C+I'm+C%C3%A9sar+Oliveira!;I'm+a+Software+Developer.)
+
 >### I seek new challenges for my evolution in the world of programming.
 
 
@@ -15,9 +16,6 @@ d![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size
 
 ##
 
-<div>
-    <img align="right" width="424rem" height="324rem" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
-</div>
 
 
 ### Tools And Plataforms 
@@ -48,7 +46,6 @@ d![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/286632997845860364)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesaroliiveira8@gmail.com)
 
-https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif
 
 <!--
 **CesarOliiveira/CesarOliiveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
