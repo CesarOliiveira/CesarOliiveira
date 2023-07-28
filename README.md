@@ -1,5 +1,4 @@
-## Hello World, My name is César Oliveira. 👋
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=24&duration=2700&pause=1000&color=1287D2&background=2F2F2F00&multiline=true&repeat=false&width=430&height=73&lines=Hi%2C+I'm+C%C3%A9sar+Oliveira!;I'm+a+Software+Developer.)
 >### I seek new challenges for my evolution in the world of programming.
 
 
@@ -10,17 +9,9 @@
 
 
 
-<div align="center" ><br/>
-    <a href="https://github.com/CesarOliiveira">
-        <img height="40px" width="50px" alt="Cesar-html"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-        <img  height="40px" width="50px" alt="Cesar-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-        <img height="40px" width="50px" alt="Cesar-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        <img  height="40px" width="50px" alt="Cesar-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-        <img   height="40px" width="50px" alt="Cesar-typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    </a>
-</div>
 
-## 
+
+##
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cesaroliiveira/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/286632997845860364)
@@ -28,11 +19,14 @@
 
 ##
 
-### **Linguagens que estou Aprendendo:**
-<div style="display: inline-block">
-    <img  align="center" height="25px" width="40px" alt="Cesar-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img  align="center" height="25px" width="50px" alt="Cesar-typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-</div>
+### Tools And Plataforms 
+![Tools](https://skillicons.dev/icons?i=docker,git,github,bash,linux,eclipse,vscode,gitlab,stackoverflow,postman,jetbrains)
+
+### Back-End
+![My Skills Back-End](https://skillicons.dev/icons?i=javascript,ts,nodejs,python,express,nestjs,mysql,postgresql,sqlite,vite,prisma,vercel,heroku)
+
+### Front-End
+![My Skills Front-End](https://skillicons.dev/icons?i=html,css,js,react,vercel,nodejs)
  
 
  
