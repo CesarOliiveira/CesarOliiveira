@@ -2,7 +2,15 @@
 
 >### I seek new challenges for my evolution in the world of programming.
 
+```
+🎓 Technician in Systems Analysis and Development 🧠
+📚 Undergraduate student seeking challenges in the technology field 💡
+🔍 Looking for internship opportunities to apply my skills 🚀
 
+💻 Passionate about programming and problem-solving 🧩
+🌐 Enthusiastic about new technologies and trends 🌱
+🤝 Open to collaborations and continuous learning 📖
+```
 
 <div align="left" style="display:flex; ">
          <img height="180em" alt="html5" src="https://github-readme-stats.vercel.app/api?username=CesarOliiveira&theme=midnight-purple" />
