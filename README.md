@@ -35,7 +35,7 @@
 ### Back-End
 
 <div >
-    <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,python,express,nestjs,mysql,postgresql,sqlite,vite,prisma,vercel,heroku">
+    <img src="https://skillicons.dev/icons?i=java, javascript,ts,nodejs,python,express,nestjs,mysql,postgresql,sqlite,vite,prisma,vercel,heroku">
 </div>
 
 ### Front-End
