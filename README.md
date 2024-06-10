@@ -35,13 +35,13 @@
 ### Back-End
 
 <div >
-    <img src="https://skillicons.dev/icons?i=java,javascript,ts,nodejs,python,express,nestjs,mysql,postgresql,sqlite,vite,prisma,vercel,heroku">
+    <img src="https://skillicons.dev/icons?i=java,javascript,ts,nodejs">
 </div>
 
 ### Front-End
 
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vercel,nodejs">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs">
 </div>
 
 ##
